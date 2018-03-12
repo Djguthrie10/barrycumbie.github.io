@@ -11,4 +11,4 @@ for (var i = 0; i < allElem.length; i++) {
     // Do something with all element here
 	console.log(allElem[i].tagName); //all[i] ... what METHOD do i need.... allElem[i].
 	}	
-}
+});
