@@ -1,4 +1,4 @@
-$(document).ready(function() {
+(document).ready(function() {
 
 // create a loop to "print out" all elements on the DOM"
 //1. create a loop structure. How to figure out the Length, i.e.,the number of iterations of my loop
